@@ -11,7 +11,7 @@ public class UIbehaviour : MonoBehaviour
 
     public void Play()
     {
-        Debug.Log("wtf");
+        //Debug.Log("wtf");
         SceneManager.LoadScene(1);
     }
 
